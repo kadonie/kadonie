@@ -13,6 +13,7 @@ That doesn't sound like a lot I know, but my goal is to make it a habit at first
 - 🎮 Obviously I love video gaming (especially Overwatch, even if i suck lol).
 - 📖 Sometimes I enjoy reading but I have a hard time staying concentrated.
 
+
 <!--
 **niekardo/niekardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
