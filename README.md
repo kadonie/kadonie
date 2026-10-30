@@ -3,10 +3,8 @@
 I'm Kado, a CS student from Germany. 
 
 ## A Bit About Me
-- 🐈 I have two cats but they live with my mum. :(
-- 🎸 I play a little bit of guitar.
-- 🎮 Obviously I love video gaming (especially Overwatch, even if i suck lol).
-- 📖 Sometimes I enjoy reading but I have a hard time staying concentrated.
+- 🐈 I love cats.
+- That's it, there is nothing more to talk about.
 
 <!--
 **niekardo/niekardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
